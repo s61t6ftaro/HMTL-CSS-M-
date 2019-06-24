@@ -30,6 +30,11 @@ img{
 	float: right;
 }
 
+
+.text_color{
+	color:#fafafa;
+}
+
 li{
 	float: left;
 	padding:0 30px;
@@ -313,6 +318,11 @@ a{
 	width: 130px;
 	margin: 0 auto;
 }
+
+.contact_contents{
+	color:black;
+}
+
 
 .right_box_container{
 	width: 50%;
